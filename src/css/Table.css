@@ -1,0 +1,45 @@
+table {
+  border-collapse: collapse;
+}
+
+thead {
+  text-align: left;
+}
+
+.table {
+  padding: 1.5em;
+}
+
+.table-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.search-container {
+  border: 1px solid gray;
+  border-radius: 1em;
+  padding: 0em 1em;
+  width: 15em;
+  height: 2em;
+}
+
+.table-heads>tr>th {
+  width: 100em;
+  padding: 0.5em 1em;
+}
+
+.table-rows {
+  border: 1pt solid black;
+}
+
+.table-rows>td {
+  width: 100em;
+  padding: 0.5em 1em;
+}
+
+.table-rows:hover {
+  border: 1pt solid black;
+  background-color: #282c34;
+  color: white;
+}

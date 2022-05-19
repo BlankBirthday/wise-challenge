@@ -1,0 +1,406 @@
+{
+    "data": {
+      "subgraphs": [
+        {
+          "id": "0x00000444e5a1a667663b0adfd853e8efa0470698-0",
+          "displayName": "renft"
+        },
+        {
+          "id": "0x00000444e5a1a667663b0adfd853e8efa0470698-1",
+          "displayName": "renft-registry"
+        },
+        {
+          "id": "0x00000444e5a1a667663b0adfd853e8efa0470698-2",
+          "displayName": "kong-naming"
+        },
+        {
+          "id": "0x00796e910bd0228ddf4cd79e3f353871a61c351c-0",
+          "displayName": "bayc-approvals"
+        },
+        {
+          "id": "0x021c1a1ce318e7b4545f6280b248062592b71706-0",
+          "displayName": "mStable Feeder Pools and Vaults"
+        },
+        {
+          "id": "0x026de7b3d021dd600438f69e49c0e34495bf0edc-0",
+          "displayName": "uniswap-v2-tokenHourData-subgraph"
+        },
+        {
+          "id": "0x03c65e533cc73cc65cd71a0cb65efa4b11e74c22-0",
+          "displayName": "Dummy Subgraph 5"
+        },
+        {
+          "id": "0x03c65e533cc73cc65cd71a0cb65efa4b11e74c22-1",
+          "displayName": "Dummy Subgraph 6"
+        },
+        {
+          "id": "0x03c65e533cc73cc65cd71a0cb65efa4b11e74c22-2",
+          "displayName": "badger-tokens"
+        },
+        {
+          "id": "0x03c65e533cc73cc65cd71a0cb65efa4b11e74c22-3",
+          "displayName": "badger-tokens"
+        },
+        {
+          "id": "0x03c65e533cc73cc65cd71a0cb65efa4b11e74c22-4",
+          "displayName": "Bot Bait v1"
+        },
+        {
+          "id": "0x03c65e533cc73cc65cd71a0cb65efa4b11e74c22-5",
+          "displayName": "Bot Bait v1"
+        },
+        {
+          "id": "0x03c65e533cc73cc65cd71a0cb65efa4b11e74c22-6",
+          "displayName": "Bot Bait v1"
+        },
+        {
+          "id": "0x03c65e533cc73cc65cd71a0cb65efa4b11e74c22-7",
+          "displayName": "Cryptokitties"
+        },
+        {
+          "id": "0x03c65e533cc73cc65cd71a0cb65efa4b11e74c22-8",
+          "displayName": "Cryptokitties v2"
+        },
+        {
+          "id": "0x0503024fcc5e1bd834530e69d592dbb6e8c03968-0",
+          "displayName": "Omen"
+        },
+        {
+          "id": "0x066ea4963c2ee8dc1a1233ab5e7335a3a587cf11-0",
+          "displayName": "Koans"
+        },
+        {
+          "id": "0x06b3a0712f26c7e72dc379ca80915c67c24eff64-0",
+          "displayName": "USDC Protocol"
+        },
+        {
+          "id": "0x06b3a0712f26c7e72dc379ca80915c67c24eff64-1",
+          "displayName": "ENS Protocol"
+        },
+        {
+          "id": "0x0712a24f963bf81aaa21a3fa8d77a7875418e77b-0",
+          "displayName": "kens-mainnet-subgraph"
+        },
+        {
+          "id": "0x072e829ff4e1c9bdb95acaf947f8ec262ecdf92f-0",
+          "displayName": "Sushiswap - Exchange"
+        },
+        {
+          "id": "0x092b8ba8f8715a2043698016b6f69433075d91d7-0",
+          "displayName": "garden-of-infinite-love-subgraph"
+        },
+        {
+          "id": "0x0a0319671f2d3c18fb55ab555b48bc01f27747a4-0",
+          "displayName": "UMA Mainnet Voting"
+        },
+        {
+          "id": "0x0b1302c23d9eb4b42a74cbefc4f9b3081ff1bf18-0",
+          "displayName": "Myfirstsubgraph"
+        },
+        {
+          "id": "0x0d69090672c1e5a94e9aedfbc59558d18a78e1d3-0",
+          "displayName": "AAVE V2"
+        },
+        {
+          "id": "0x11cdfcb54576d5990219c426bf2c630115a2012a-0",
+          "displayName": "ourz-mainnet"
+        },
+        {
+          "id": "0x147676a5e327080386bcc227e103a73dd2979049-0",
+          "displayName": "Liquity"
+        },
+        {
+          "id": "0x15dbafbc783fed89a0bbea7626ddfe86fb94f5e8-0",
+          "displayName": "SUNI"
+        },
+        {
+          "id": "0x1639b5a337c5be3776558e55b7ec55734fefad4d-0",
+          "displayName": "C98subgraph"
+        },
+        {
+          "id": "0x170e0516f858e187e43c50a926c5d22157991fa4-0",
+          "displayName": "CryptoArt Ai"
+        },
+        {
+          "id": "0x18322cdb4862b91f422420a4fcad485c5328169c-0",
+          "displayName": "IcoDrops"
+        },
+        {
+          "id": "0x18322cdb4862b91f422420a4fcad485c5328169c-1",
+          "displayName": "USDT"
+        },
+        {
+          "id": "0x18322cdb4862b91f422420a4fcad485c5328169c-2",
+          "displayName": "pro.coinlist exchange"
+        },
+        {
+          "id": "0x197939c1ca20c2b506d6811d8b6cdb3394471074-0",
+          "displayName": "Iron Bank"
+        },
+        {
+          "id": "0x197939c1ca20c2b506d6811d8b6cdb3394471074-1",
+          "displayName": "CREAM Iron Bank"
+        },
+        {
+          "id": "0x1cce53bb9562407a4a816d732584ebea4dabf71d-0",
+          "displayName": "The Vampire Game"
+        },
+        {
+          "id": "0x1d84537e6927279c639e1b3a8af0d9dff8d9147a-0",
+          "displayName": "Instadapp Ethereum DSA"
+        },
+        {
+          "id": "0x1e481b7f791a14e7cccc00980f6105e1884553e7-0",
+          "displayName": "Bot Bait v1"
+        },
+        {
+          "id": "0x1f2414d0af8741bc822dbc2f88069c2b2907a840-0",
+          "displayName": "Boba Network Mainnet"
+        },
+        {
+          "id": "0x1f90acb4cdb238858c7347c9fbd8a1c44caa7928-0",
+          "displayName": "Totle Swap"
+        },
+        {
+          "id": "0x1f90acb4cdb238858c7347c9fbd8a1c44caa7928-1",
+          "displayName": "Keep network"
+        },
+        {
+          "id": "0x1f90acb4cdb238858c7347c9fbd8a1c44caa7928-2",
+          "displayName": "tbtc"
+        },
+        {
+          "id": "0x210c43953bad387654fb4c997ccc1609a6b1125e-0",
+          "displayName": "MetaFactory ROBOT"
+        },
+        {
+          "id": "0x210c43953bad387654fb4c997ccc1609a6b1125e-1",
+          "displayName": "Dummy Subgraph 1"
+        },
+        {
+          "id": "0x210c43953bad387654fb4c997ccc1609a6b1125e-2",
+          "displayName": "Dummy Subgraph 2"
+        },
+        {
+          "id": "0x210c43953bad387654fb4c997ccc1609a6b1125e-3",
+          "displayName": "Dummy Subgraph 3"
+        },
+        {
+          "id": "0x210c43953bad387654fb4c997ccc1609a6b1125e-4",
+          "displayName": "Dummy Subgraph 4"
+        },
+        {
+          "id": "0x213105d094ed4d7fa0c6d86cba8570f325884c3d-0",
+          "displayName": "filta"
+        },
+        {
+          "id": "0x21f7db7daa3f03100eb6ad36f79e20972a79e6c0-0",
+          "displayName": "Eth Cryptovoxels Collections"
+        },
+        {
+          "id": "0x235a2ac113014f9dcb8aba6577f20290832ddefd-0",
+          "displayName": "HaloDAO Exchange"
+        },
+        {
+          "id": "0x2382ab6c2099474cf424560a370ed1b1fdb65253-0",
+          "displayName": "Curve"
+        },
+        {
+          "id": "0x24d123ddacfed44e253559446879da7cbdfe6d92-0",
+          "displayName": "Ethereum User LP Transactions V1"
+        },
+        {
+          "id": "0x24d123ddacfed44e253559446879da7cbdfe6d92-1",
+          "displayName": "Ethereum User LP Transactions w Recipient Count"
+        },
+        {
+          "id": "0x26cf67040678eb0f5654c9cbaad78dc1694cbafa-0",
+          "displayName": "mStable Protocol"
+        },
+        {
+          "id": "0x2bff1f46af78cf5d62dae8fe87759988c7e6908a-0",
+          "displayName": "nifty-ink-main"
+        },
+        {
+          "id": "0x2c0a5ed29d463f6c6180ff4dadab248158b6da5b-0",
+          "displayName": "Terraforms"
+        },
+        {
+          "id": "0x2d01a7df0cb0d9890a12f998592d2d3d8a1024a1-0",
+          "displayName": "cryptomanga-subgraph"
+        },
+        {
+          "id": "0x2f0963e77ca6ac0c2dad1bf4147b6b40e0dd8728-0",
+          "displayName": "Radicle"
+        },
+        {
+          "id": "0x2f1d02cc9331d8eadc376a25c283fc5818f95426-0",
+          "displayName": "KibbleFactory"
+        },
+        {
+          "id": "0x2f984721d255e98a4b014c2cd2655f4e3b52e538-0",
+          "displayName": "simplefi-uniswap-v2"
+        },
+        {
+          "id": "0x321341d64192e3040424f7f5c16beae44042e004-0",
+          "displayName": "Yearn Finance Vaults"
+        },
+        {
+          "id": "0x33d0d63a1f0da691b283aedd29875afeaf98e6ba-0",
+          "displayName": "C98subgraph"
+        },
+        {
+          "id": "0x33d0d63a1f0da691b283aedd29875afeaf98e6ba-1",
+          "displayName": "C98subgraph"
+        },
+        {
+          "id": "0x34dacf4f33cb8646e95574b0faad746d288c4fed-0",
+          "displayName": "Bancor"
+        },
+        {
+          "id": "0x369e32aed1dc5c33c85ab20977fb645a803e4a70-0",
+          "displayName": "Paraswap"
+        },
+        {
+          "id": "0x369e32aed1dc5c33c85ab20977fb645a803e4a70-1",
+          "displayName": "Synthetix"
+        },
+        {
+          "id": "0x36c057dd1850fad3c075ba83105e67d2448dedaf-0",
+          "displayName": "0x-exchange-proxy"
+        },
+        {
+          "id": "0x378bcce7235d53bbc3774bff8559191f06e6818e-0",
+          "displayName": "Tux V1"
+        },
+        {
+          "id": "0x38a6960e658818d1a023af4803803fde6ce09ff0-0",
+          "displayName": "Wrapped ETH"
+        },
+        {
+          "id": "0x391d417438f57c6a441110ce335d2183a4af1473-0",
+          "displayName": "PACE"
+        },
+        {
+          "id": "0x3b9ba748691f135b71582dc3292e5e3ed7e13341-0",
+          "displayName": "PAX"
+        },
+        {
+          "id": "0x3c3cab03c83e48e2e773ef5fc86f52ad2b15a5b0-0",
+          "displayName": "Art Blocks"
+        },
+        {
+          "id": "0x3ebeb22dcbff5ee1a320e8d439b3bf96fd3667dc-0",
+          "displayName": "unicly-advanced-staking"
+        },
+        {
+          "id": "0x3ed71cdc6fd85f20fc2dc0988db6d4d5e803fa1e-0",
+          "displayName": "Umbria"
+        },
+        {
+          "id": "0x3f4e2cfe11aa607570e0aee7ac74fbff9633fa8e-0",
+          "displayName": "orca-protocol"
+        },
+        {
+          "id": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4-0",
+          "displayName": "known-origin"
+        },
+        {
+          "id": "0x3fca4067e2358b7e6c09231a60771643a37ee9ea-0",
+          "displayName": "Ba1tDao"
+        },
+        {
+          "id": "0x3fca4067e2358b7e6c09231a60771643a37ee9ea-1",
+          "displayName": "Ba1tDao"
+        },
+        {
+          "id": "0x3fca4067e2358b7e6c09231a60771643a37ee9ea-2",
+          "displayName": "Ba1tDeFi"
+        },
+        {
+          "id": "0x3fca4067e2358b7e6c09231a60771643a37ee9ea-3",
+          "displayName": "Ba1tD"
+        },
+        {
+          "id": "0x47a277bc1c71a7ce8315a7b06da70c1bb4e56328-0",
+          "displayName": "NFTSample"
+        },
+        {
+          "id": "0x4baa4e0c28ebaee3399874132c3cbbf57db320cc-0",
+          "displayName": "Kripton"
+        },
+        {
+          "id": "0x4bb4c1b0745ef7b4642feeccd0740dec417ca0a0-0",
+          "displayName": "Sushi - Mainnet Exchange"
+        },
+        {
+          "id": "0x4bb4c1b0745ef7b4642feeccd0740dec417ca0a0-1",
+          "displayName": "Sushi - MasterChef"
+        },
+        {
+          "id": "0x4bb4c1b0745ef7b4642feeccd0740dec417ca0a0-2",
+          "displayName": "Sushi - SushiBar"
+        },
+        {
+          "id": "0x4bb4c1b0745ef7b4642feeccd0740dec417ca0a0-3",
+          "displayName": "Sushi - Mainnet Exchange"
+        },
+        {
+          "id": "0x4d0dcf7626bf6cb37d1ff6a9881e0ea2fdb15fdb-0",
+          "displayName": "Places"
+        },
+        {
+          "id": "0x4f071924d66bbc71a5254217893cc7d49938b1c4-0",
+          "displayName": "predy"
+        },
+        {
+          "id": "0x4f17562c9a6ccfe47c3ef4245eb53c047cb2ff1d-0",
+          "displayName": "axolittles"
+        },
+        {
+          "id": "0x5068e62f34b319b6b3cce4d934a59743611b5f4e-0",
+          "displayName": "Gravity"
+        },
+        {
+          "id": "0x5104adc257290094139eb18b084fad417e0cc40f-0",
+          "displayName": "Friends With Benefits"
+        },
+        {
+          "id": "0x521cbe4d915138e3c49156841c14ca4c8fe10805-0",
+          "displayName": "Balancer"
+        },
+        {
+          "id": "0x521cbe4d915138e3c49156841c14ca4c8fe10805-1",
+          "displayName": "Compound V2"
+        },
+        {
+          "id": "0x521cbe4d915138e3c49156841c14ca4c8fe10805-2",
+          "displayName": "makerdao-governance"
+        },
+        {
+          "id": "0x534a9ac3d3401f80800375680bded6a84137d296-0",
+          "displayName": "Bot Bait v2"
+        },
+        {
+          "id": "0x534a9ac3d3401f80800375680bded6a84137d296-1",
+          "displayName": "Test remove soon"
+        },
+        {
+          "id": "0x534a9ac3d3401f80800375680bded6a84137d296-2",
+          "displayName": "test migrate"
+        },
+        {
+          "id": "0x534a9ac3d3401f80800375680bded6a84137d296-3",
+          "displayName": "test dev"
+        },
+        {
+          "id": "0x534a9ac3d3401f80800375680bded6a84137d296-4",
+          "displayName": "migrate 1"
+        },
+        {
+          "id": "0x534a9ac3d3401f80800375680bded6a84137d296-5",
+          "displayName": "BOT BOT"
+        }
+      ]
+    }
+  }
